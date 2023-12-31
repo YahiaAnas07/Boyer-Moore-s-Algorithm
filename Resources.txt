@@ -1,0 +1,4 @@
+https://www.geeksforgeeks.org/time-space-trade-off-in-algorithms/
+https://www.geeksforgeeks.org/boyer-moore-algorithm-for-pattern-searching/
+https://www.geeksforgeeks.org/boyer-moore-algorithm-good-suffix-heuristic/
+Introduction to the Design and Analysis of Algorithms Book
